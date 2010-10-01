@@ -8,7 +8,7 @@ gem install gurgle
 
 == Usage
 
-Gurge.shorten('http://your.super.long.url/goes/here')
+Gurgle.shorten('http://your.super.long.url/goes/here')
 
 == Note on Patches/Pull Requests
  
