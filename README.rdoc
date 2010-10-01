@@ -1,6 +1,14 @@
 = gurgle
 
-Description goes here.
+Gurgle is a simple method of calling Google's http://goo.gl URL shortening service. 
+
+== Install
+
+gem install gurgle
+
+== Usage
+
+Gurge.shorten('http://your.super.long.url/goes/here')
 
 == Note on Patches/Pull Requests
  

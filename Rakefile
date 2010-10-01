@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "gurgle"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = "Generate shortened URLs with goo.gl"
+    gem.description = "Generates shortened URLs from Google's official URL shortener - http://goo.gl"
     gem.email = "michaelbuckbee@gmail.com"
     gem.homepage = "http://github.com/mbuckbee/gurgle"
     gem.authors = ["mbuckbee"]
